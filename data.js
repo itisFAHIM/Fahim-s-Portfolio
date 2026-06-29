@@ -184,18 +184,18 @@ const portfolioData = {
     }
   ],
   lens: [
-    { image: "assets/Main page image/1 (109).jpg", label: "Street Life / 2024" },
-    { image: "assets/Main page image/1 (17).jpg", label: "Nature Escapes" },
-    { image: "assets/Main page image/1 (174).jpg", label: "Creative Portraits" },
-    { image: "assets/Main page image/1 (175).jpg", label: "Fast Paced Action" },
-    { image: "assets/Main page image/1 (184).jpg", label: "Urban Stories" },
-    { image: "assets/Main page image/1 (20).jpg", label: "Scenic Views" },
-    { image: "assets/Main page image/1 (22).jpg", label: "Studio Work" },
-    { image: "assets/Main page image/1 (23).jpg", label: "Dynamic Motion" },
-    { image: "assets/Main page image/1 (50).jpg", label: "Visual Arts" },
-    { image: "assets/Main page image/1 (68).jpg", label: "City Vibes" },
-    { image: "assets/Main page image/1 (84).jpg", label: "Captured Moments" },
-    { image: "assets/Main page image/1 (86).jpg", label: "Raw Perspective" }
+    { image: "assets/Main_page_Image/1 (109).jpg", label: "Street Life / 2024" },
+    { image: "assets/Main_page_Image/1 (17).jpg", label: "Nature Escapes" },
+    { image: "assets/Main_page_Image/1 (174).jpg", label: "Creative Portraits" },
+    { image: "assets/Main_page_Image/1 (175).jpg", label: "Fast Paced Action" },
+    { image: "assets/Main_page_Image/1 (184).jpg", label: "Urban Stories" },
+    { image: "assets/Main_page_Image/1 (20).jpg", label: "Scenic Views" },
+    { image: "assets/Main_page_Image/1 (22).jpg", label: "Studio Work" },
+    { image: "assets/Main_page_Image/1 (23).jpg", label: "Dynamic Motion" },
+    { image: "assets/Main_page_Image/1 (50).jpg", label: "Visual Arts" },
+    { image: "assets/Main_page_Image/1 (68).jpg", label: "City Vibes" },
+    { image: "assets/Main_page_Image/1 (84).jpg", label: "Captured Moments" },
+    { image: "assets/Main_page_Image/1 (86).jpg", label: "Raw Perspective" }
   ],
   awards: [
     { name: "Runner-Up — ICCIT 2023 Student Activity Video Contest", year: "2023" },
